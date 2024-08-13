@@ -60,6 +60,7 @@
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0870-magic-squares-in-grid](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -114,4 +115,8 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
