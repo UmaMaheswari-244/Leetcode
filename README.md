@@ -30,11 +30,13 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0009-palindrome-number) |
+| [0264-ugly-number-ii](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0870-magic-squares-in-grid) |
 ## Hash Table
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0870-magic-squares-in-grid](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/UmaMaheswari-244/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -114,6 +116,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
@@ -134,5 +137,6 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0264-ugly-number-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 <!---LeetCode Topics End-->
