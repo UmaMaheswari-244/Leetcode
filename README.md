@@ -81,6 +81,7 @@
 | [1240-stone-game-ii](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Recursion
@@ -93,6 +94,7 @@
 | [0870-magic-squares-in-grid](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2035-count-sub-islands) |
 ## Simulation
 |  |
 | ------- |
@@ -104,10 +106,12 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2035-count-sub-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2035-count-sub-islands) |
 ## Strongly Connected Component
 |  |
 | ------- |
@@ -183,4 +187,8 @@
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1325-path-with-maximum-probability) |
+## Union Find
+|  |
+| ------- |
+| [2035-count-sub-islands](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2035-count-sub-islands) |
 <!---LeetCode Topics End-->
