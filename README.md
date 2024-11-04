@@ -44,6 +44,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0001-two-sum) |
 | [0264-ugly-number-ii](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0432-all-oone-data-structure](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0870-magic-squares-in-grid](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0870-magic-squares-in-grid) |
@@ -104,6 +105,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0001-two-sum) |
 | [0040-combination-sum-ii](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0179-largest-number](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0539-minimum-time-difference) |
