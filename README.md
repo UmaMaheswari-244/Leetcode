@@ -106,6 +106,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0179-largest-number](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0539-minimum-time-difference) |
@@ -230,6 +231,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Dynamic Programming
 |  |
