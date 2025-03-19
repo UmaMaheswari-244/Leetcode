@@ -87,6 +87,7 @@
 | [0179-largest-number](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0890-lemonade-change) |
+| [1829-maximum-units-on-a-truck](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/UmaMaheswari-244/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
@@ -94,6 +95,7 @@
 | [0179-largest-number](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1829-maximum-units-on-a-truck](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/UmaMaheswari-244/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
@@ -128,6 +130,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1829-maximum-units-on-a-truck](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
