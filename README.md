@@ -39,6 +39,7 @@
 | [0650-2-keys-keyboard](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1240-stone-game-ii) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2155-find-missing-observations](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Hash Table
@@ -73,6 +74,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
