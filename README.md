@@ -150,6 +150,7 @@
 | [1497-design-a-stack-with-increment-operation](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1755-defuse-the-bomb](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1829-maximum-units-on-a-truck](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
@@ -413,4 +414,8 @@
 |  |
 | ------- |
 | [1558-course-schedule-iv](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1558-course-schedule-iv) |
+## Sliding Window
+|  |
+| ------- |
+| [1755-defuse-the-bomb](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1755-defuse-the-bomb) |
 <!---LeetCode Topics End-->
