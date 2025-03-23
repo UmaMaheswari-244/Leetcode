@@ -324,6 +324,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3394-minimum-array-end](https://github.com/UmaMaheswari-244/Leetcode/tree/master/3394-minimum-array-end) |
 ## Stack
 |  |
 | ------- |
