@@ -78,6 +78,7 @@
 | [0564-find-the-closest-palindrome](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0664-strange-printer) |
+| [0812-rotate-string](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -376,6 +377,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
