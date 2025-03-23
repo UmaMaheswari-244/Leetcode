@@ -173,6 +173,7 @@
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/UmaMaheswari-244/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3429-special-array-i](https://github.com/UmaMaheswari-244/Leetcode/tree/master/3429-special-array-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/UmaMaheswari-244/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/UmaMaheswari-244/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Recursion
 |  |
 | ------- |
@@ -418,4 +419,5 @@
 |  |
 | ------- |
 | [1755-defuse-the-bomb](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1755-defuse-the-bomb) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/UmaMaheswari-244/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 <!---LeetCode Topics End-->
