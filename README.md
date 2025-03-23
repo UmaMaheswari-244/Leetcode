@@ -88,6 +88,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2580-circular-sentence](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2580-circular-sentence) |
 | [2755-extra-characters-in-a-string](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/UmaMaheswari-244/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/UmaMaheswari-244/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
