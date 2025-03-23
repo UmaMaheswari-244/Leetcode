@@ -128,6 +128,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0731-my-calendar-ii) |
+| [0854-making-a-large-island](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0890-lemonade-change) |
@@ -165,6 +166,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0854-making-a-large-island](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -189,6 +191,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0854-making-a-large-island](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1484-linked-list-in-binary-tree](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -196,6 +199,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0854-making-a-large-island](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0854-making-a-large-island) |
 | [1484-linked-list-in-binary-tree](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2035-count-sub-islands) |
@@ -307,6 +311,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0854-making-a-large-island](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2035-count-sub-islands](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2035-count-sub-islands) |
 ## Linked List
