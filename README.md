@@ -153,6 +153,7 @@
 | [2411-spiral-matrix-iv](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2551-apply-operations-to-an-array](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2755-extra-characters-in-a-string](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2755-extra-characters-in-a-string) |
@@ -202,6 +203,7 @@
 | [1558-course-schedule-iv](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1558-course-schedule-iv) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2035-count-sub-islands) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -210,6 +212,7 @@
 | [1558-course-schedule-iv](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1558-course-schedule-iv) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2035-count-sub-islands) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Strongly Connected Component
 |  |
 | ------- |
@@ -221,6 +224,7 @@
 | [0776-n-ary-tree-postorder-traversal](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1484-linked-list-in-binary-tree](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Design
 |  |
 | ------- |
@@ -251,6 +255,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1484-linked-list-in-binary-tree](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Data Stream
 |  |
 | ------- |
