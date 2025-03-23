@@ -60,6 +60,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2586-longest-square-streak-in-an-array](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2755-extra-characters-in-a-string](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/UmaMaheswari-244/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -105,6 +106,7 @@
 | [0539-minimum-time-difference](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1829-maximum-units-on-a-truck](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
+| [2586-longest-square-streak-in-an-array](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/UmaMaheswari-244/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
@@ -156,6 +158,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2551-apply-operations-to-an-array](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2586-longest-square-streak-in-an-array](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2755-extra-characters-in-a-string](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -244,6 +247,7 @@
 | [0731-my-calendar-ii](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2586-longest-square-streak-in-an-array](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -284,6 +288,7 @@
 | [1240-stone-game-ii](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1240-stone-game-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2586-longest-square-streak-in-an-array](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Prefix Sum
