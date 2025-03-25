@@ -115,6 +115,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/UmaMaheswari-244/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3430-count-days-without-meetings](https://github.com/UmaMaheswari-244/Leetcode/tree/master/3430-count-days-without-meetings) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/UmaMaheswari-244/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Counting
 |  |
 | ------- |
@@ -180,6 +181,7 @@
 | [3430-count-days-without-meetings](https://github.com/UmaMaheswari-244/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/UmaMaheswari-244/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/UmaMaheswari-244/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/UmaMaheswari-244/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Recursion
 |  |
 | ------- |
