@@ -43,6 +43,7 @@
 | [1240-stone-game-ii](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1240-stone-game-ii) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2155-find-missing-observations](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2155-find-missing-observations) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Hash Table
 |  |
@@ -111,6 +112,7 @@
 | [0539-minimum-time-difference](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1829-maximum-units-on-a-truck](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2554-minimum-total-distance-traveled](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/UmaMaheswari-244/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -164,6 +166,7 @@
 | [2067-maximum-number-of-points-with-cost](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2155-find-missing-observations) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -198,6 +201,7 @@
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2411-spiral-matrix-iv](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Simulation
