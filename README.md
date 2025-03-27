@@ -450,4 +450,8 @@
 |  |
 | ------- |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
