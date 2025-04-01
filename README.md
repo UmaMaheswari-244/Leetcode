@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0432-all-oone-data-structure](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0432-all-oone-data-structure) |
@@ -74,6 +75,7 @@
 | [0179-largest-number](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0242-valid-anagram](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0539-minimum-time-difference](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0539-minimum-time-difference) |
@@ -109,6 +111,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0242-valid-anagram) |
 | [0539-minimum-time-difference](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1829-maximum-units-on-a-truck](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
