@@ -135,6 +135,7 @@
 | [0011-container-with-most-water](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0054-spiral-matrix](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0054-spiral-matrix) |
 | [0179-largest-number](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
@@ -194,6 +195,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0054-spiral-matrix) |
 | [0854-making-a-large-island](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0921-spiral-matrix-iii) |
@@ -207,6 +209,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0054-spiral-matrix) |
 | [0592-fraction-addition-and-subtraction](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0921-spiral-matrix-iii) |
