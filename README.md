@@ -73,6 +73,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0179-largest-number](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -414,6 +415,7 @@
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
