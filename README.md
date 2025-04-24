@@ -58,6 +58,7 @@
 | [0906-walking-robot-simulation](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1039-find-the-town-judge](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -156,6 +157,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0921-spiral-matrix-iii) |
+| [1039-find-the-town-judge](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1240-stone-game-ii](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -371,6 +373,7 @@
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1039-find-the-town-judge](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1325-path-with-maximum-probability](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1558-course-schedule-iv](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1558-course-schedule-iv) |
 | [2803-modify-graph-edge-weights](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2803-modify-graph-edge-weights) |
