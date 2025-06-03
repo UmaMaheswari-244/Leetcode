@@ -165,6 +165,7 @@
 | [1325-path-with-maximum-probability](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1435-xor-queries-of-a-subarray](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -254,6 +255,7 @@
 | ------- |
 | [0854-making-a-large-island](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0854-making-a-large-island) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1484-linked-list-in-binary-tree](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1558-course-schedule-iv) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -378,6 +380,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1039-find-the-town-judge](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1325-path-with-maximum-probability](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1325-path-with-maximum-probability) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1558-course-schedule-iv](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1558-course-schedule-iv) |
 | [2803-modify-graph-edge-weights](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2803-modify-graph-edge-weights) |
 ## Shortest Path
