@@ -79,6 +79,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0038-count-and-say) |
+| [0058-length-of-last-word](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
