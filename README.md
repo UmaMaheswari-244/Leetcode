@@ -31,6 +31,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0012-integer-to-roman) |
 | [0241-different-ways-to-add-parentheses](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0264-ugly-number-ii) |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0012-integer-to-roman) |
 | [0242-valid-anagram](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
@@ -77,6 +79,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0058-length-of-last-word) |
