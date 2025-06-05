@@ -32,6 +32,7 @@
 | [0002-add-two-numbers](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0012-integer-to-roman) |
+| [0204-count-primes](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0204-count-primes) |
 | [0241-different-ways-to-add-parentheses](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0264-ugly-number-ii) |
@@ -157,6 +158,7 @@
 | [0055-jump-game](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0179-largest-number) |
+| [0204-count-primes](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0204-count-primes) |
 | [0539-minimum-time-difference](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -419,6 +421,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0204-count-primes) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Brainteaser
 |  |
@@ -501,6 +504,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0204-count-primes) |
 | [3201-distribute-candies-among-children-ii](https://github.com/UmaMaheswari-244/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/UmaMaheswari-244/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 <!---LeetCode Topics End-->
