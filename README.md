@@ -130,6 +130,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0242-valid-anagram) |
 | [0539-minimum-time-difference](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0539-minimum-time-difference) |
@@ -161,6 +162,7 @@
 | [0040-combination-sum-ii](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0054-spiral-matrix](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0055-jump-game) |
+| [0088-merge-sorted-array](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0204-count-primes) |
@@ -342,6 +344,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2551-apply-operations-to-an-array](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2551-apply-operations-to-an-array) |
