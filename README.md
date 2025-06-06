@@ -107,6 +107,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1894-merge-strings-alternately](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -353,6 +354,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1894-merge-strings-alternately](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2551-apply-operations-to-an-array](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/UmaMaheswari-244/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
