@@ -192,6 +192,7 @@
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1435-xor-queries-of-a-subarray](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
