@@ -94,6 +94,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0345-reverse-vowels-of-a-string](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0539-minimum-time-difference](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0564-find-the-closest-palindrome) |
@@ -349,6 +350,7 @@
 | [0011-container-with-most-water](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0345-reverse-vowels-of-a-string](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2551-apply-operations-to-an-array](https://github.com/UmaMaheswari-244/Leetcode/tree/master/2551-apply-operations-to-an-array) |
