@@ -96,6 +96,7 @@
 | [0242-valid-anagram](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0345-reverse-vowels-of-a-string](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0392-is-subsequence) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0539-minimum-time-difference](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0564-find-the-closest-palindrome) |
@@ -360,6 +361,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0392-is-subsequence) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1894-merge-strings-alternately](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1894-merge-strings-alternately) |
@@ -372,6 +374,7 @@
 | [0055-jump-game](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0055-jump-game) |
 | [0241-different-ways-to-add-parentheses](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0392-is-subsequence](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0392-is-subsequence) |
 | [0650-2-keys-keyboard](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0664-strange-printer) |
 | [1240-stone-game-ii](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1240-stone-game-ii) |
