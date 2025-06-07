@@ -89,6 +89,7 @@
 | [0020-valid-parentheses](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0214-shortest-palindrome) |
@@ -360,6 +361,7 @@
 | [0011-container-with-most-water](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
