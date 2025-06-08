@@ -166,6 +166,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0035-search-insert-position) |
@@ -323,6 +324,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0035-search-insert-position) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0729-my-calendar-i) |
@@ -546,4 +548,8 @@
 | [0204-count-primes](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0204-count-primes) |
 | [3201-distribute-candies-among-children-ii](https://github.com/UmaMaheswari-244/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/UmaMaheswari-244/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
