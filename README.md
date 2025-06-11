@@ -172,6 +172,7 @@
 | [0035-search-insert-position](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0053-maximum-subarray](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -389,6 +390,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0055-jump-game) |
 | [0241-different-ways-to-add-parentheses](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0264-ugly-number-ii) |
@@ -563,4 +565,5 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
