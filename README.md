@@ -277,6 +277,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0386-lexicographical-numbers) |
@@ -293,6 +294,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0322-coin-change) |
 | [0854-making-a-large-island](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0854-making-a-large-island) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -310,6 +312,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -354,6 +357,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
