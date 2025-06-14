@@ -33,6 +33,7 @@
 | [0009-palindrome-number](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0204-count-primes) |
 | [0241-different-ways-to-add-parentheses](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0263-ugly-number) |
@@ -409,6 +410,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0322-coin-change) |
@@ -503,6 +505,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/UmaMaheswari-244/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/UmaMaheswari-244/Leetcode/tree/master/1013-fibonacci-number) |
 ## Rolling Hash
